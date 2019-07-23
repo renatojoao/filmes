@@ -1,0 +1,38 @@
+.welcome-card img {
+  max-height: 60vh;
+  overflow: hidden;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: #3880ff;
+}
+
+.title {
+  font-size: 20px;
+  color: black;
+}
+
+.button {
+  color: #3880ff;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  border-top: rgb(82, 79, 79);
+  border-top-style: solid;
+  border-top-width: 0.1px;
+  padding-top: 24px;
+}
+
+.chip {
+  background-color: #3880ff;
+  color: white;
+  float: right;
+  margin-top: 16px;
+}
+
+.header {
+  margin-bottom: 64px;
+}
